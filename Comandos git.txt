@@ -1,0 +1,15 @@
+git init
+git branch -Main
+git add .
+git commit -m "nombre de versión"
+git push 
+git pull
+git status
+
+git init es para inicializar un repositorio local
+git Branch -M main: sirve para renombrar la rama manster por main
+git add: Este comando sirve para agregar todos los archivos"
+git commit -m "firt commit (este comando sirve para nombrar la version de subida)
+git pulsh "sube los cambios al repositorio a la web o nubee<2
+git pull "Jala los cambios de repositorio web"
+git status "comprueba si hay cambios o el estado de los archivos".
