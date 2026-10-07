@@ -9,5 +9,4 @@ let nulo = null; // Variable de tipo null
 //Formas de concatenar o juntar variables y tipos de datos//
 console.log (nombre + " " + cantidad + " " + precio + " " + verdadero + " " + falso + " " + nulo);
 console.log (nombre , " " , cantidad , " " , precio , " " , verdadero , " " , falso , " " , nulo);
-console.log ();
-console.log (`Su nombre es: ${nombre},' tiene en este momento $${cantidad} centavos, el precio es de: ${precio}, su apellido de verdad es: ${verdadero} y todo esto es ${falso} porque los datos son ${nulo}`);
+console.log (`Su nombre es: ${nombre},' tiene en este momento ${cantidad} centavos, el precio es de: ${precio}, su apellido de verdad es: ${verdadero} y todo esto es ${falso} porque los datos son ${nulo}`);
